@@ -1,5 +1,14 @@
-# Hi, I'm Sriza Goel
-I build intelligent systems at the intersection of AI, machine learning, and backend engineering, turning ideas into real-world applications that actually matter. I'm drawn to the hard problems: making sense of data, designing algorithms that scale, and shipping solutions that leave a mark.
+<h1 align="center" style="font-weight:500;">
+  heyy, i'm sriza
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=FBCFE8&center=true&vCenter=true&width=520&lines=data+%2F%2F+always;ai%2Fml+engineer;ideas+%E2%87%92+systems;opt+%E2%86%92+iter+%E2%86%92+repeat" />
+</p>
+<p align="center">
+  ♡ ˚₊‧ ✧ ‧₊˚ ♡
+</p>
+
+I build intelligent systems at the intersection of AI and machine learning turning ideas into real-world applications that actually matter. I'm drawn to the hard problems: making sense of data, designing algorithms that scale, and shipping solutions that leave a mark.
 
 
 ## Socials
