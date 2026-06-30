@@ -25,6 +25,8 @@ I build intelligent systems at the intersection of AI and machine learning turni
 ![Java](https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-222222?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-222222?style=flat-square&logo=react&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-222222?style=flat-square&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-222222?style=flat-square&logo=netlify&logoColor=white)
