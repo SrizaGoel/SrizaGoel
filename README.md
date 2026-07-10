@@ -27,14 +27,12 @@ I build intelligent systems at the intersection of AI and machine learning turni
 ![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-222222?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-222222?style=flat-square&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-222222?style=flat-square&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-222222?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-222222?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-222222?style=flat-square&logo=render&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-222222?style=flat-square&logo=anaconda&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-222222?style=flat-square&logo=streamlit&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Maven-222222?style=flat-square&logo=apache-maven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-222222?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-222222?style=flat-square&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-222222?style=flat-square&logo=sqlite&logoColor=white)
@@ -48,7 +46,6 @@ I build intelligent systems at the intersection of AI and machine learning turni
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-222222?style=flat-square&logo=matplotlib&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-222222?style=flat-square&logo=scipy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-222222?style=flat-square&logo=ffmpeg&logoColor=white)
 
 
 ## GitHub Stats
